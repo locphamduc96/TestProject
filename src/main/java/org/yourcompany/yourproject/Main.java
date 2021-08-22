@@ -25,6 +25,8 @@ public class Main {
 
         System.err.println("myComputer");
 
+        System.err.println("development");
+
         System.exit(0);
     }
 
