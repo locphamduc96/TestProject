@@ -25,11 +25,7 @@ public class Main {
 
         System.err.println("myComputer");
 
-<<<<<<< HEAD
-        System.err.println("dev2");
-=======
         System.err.println("development");
->>>>>>> development
 
         System.exit(0);
     }
