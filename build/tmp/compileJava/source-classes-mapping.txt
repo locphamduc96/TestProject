@@ -1,2 +1,0 @@
-org/yourcompany/yourproject/Main.java
- org.yourcompany.yourproject.Main
