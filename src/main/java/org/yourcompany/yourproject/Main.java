@@ -5,6 +5,8 @@
 
 package org.yourcompany.yourproject;
 
+import java.awt.desktop.SystemSleepEvent;
+
 /**
  *
  * @author locpd2
@@ -20,6 +22,8 @@ public class Main {
         System.err.println("Hello World");
 
         System.err.println("Hello World");
+
+        System.err.println("myComputer");
 
         System.exit(0);
     }
